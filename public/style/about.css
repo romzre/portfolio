@@ -1,0 +1,92 @@
+.sectionAbout
+{
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+}
+.relH
+{
+    height: 4rem;
+}
+
+.boxabout
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.aboutTitle
+{
+    position: relative;
+    font-size: 4rem;
+    overflow: hidden;
+}
+
+.containerAbout
+{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+}
+
+.contAboutH
+{
+    padding: 15px;
+    margin-bottom: 50px;
+    padding-left: 15%;
+    overflow: hidden;
+   
+}
+.contAboutH h3
+{
+    font-size: 2rem;
+    display: flex;
+
+}
+
+.contAboutH h4
+{
+    font-size: 1.3rem;
+
+}
+.LetterH3
+{
+    display: block;
+}
+.contAboutP
+{
+    display: flex;
+    flex-direction: column;
+    padding-left: 15%;
+    gap: 25px;
+    font-size: 1.4rem;
+    color: rgb(27, 32, 63);
+   overflow: hidden;
+}
+
+.aboutBloc2
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.containerImg
+{
+    width: 80%;
+    background-color: rgb(55, 55, 55);
+    display: flex;
+    padding: 50px;
+}
+
+.containerImg img
+{
+    width: 75%;
+    background-size: cover;
+    box-shadow: 30px -18px .5px var(--white);
+}

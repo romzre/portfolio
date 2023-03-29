@@ -1,0 +1,17 @@
+.box
+{
+    position: relative;
+}
+.quote
+{
+    position: absolute;
+    font-size: 3rem;
+    white-space: nowrap;
+}
+.fixed
+{
+    position: fixed;
+}
+.scale{
+    background-color: red;
+}
